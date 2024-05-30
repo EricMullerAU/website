@@ -18,7 +18,6 @@ email: eric.muller@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Please fork and edit. Happy building!
   Copyright 2022 Cheng Soon Ong.
-baseurl: "/academic-site" # the subpath of your site, e.g. /blog.
 url: "https://ericmullerau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "eric__muller"
 github_username:  EricMullerAU
