@@ -1,5 +1,5 @@
 ---
-title: Organisation
+title: Publications
 layout: default
 ---
 
