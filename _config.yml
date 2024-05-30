@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: A personal site of an academic
+title: PhD Student at the ANU
 email: eric.muller@anu.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
   Please fork and edit. Happy building!
-  Copyright 2022 Cheng Soon Ong.
 baseurl: /website
 url: "https://ericmullerau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: "eric__muller"
@@ -26,6 +25,3 @@ github_username:  EricMullerAU
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-cayman
-# remote_theme: pages-themes/cayman@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
