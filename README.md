@@ -1,6 +1,6 @@
 # academic-site
 A small example of a personal website for a research scientist.
-View how it looks [rendered and hosted on github](https://chengsoonong.github.io/academic-site/).
+View how it looks [rendered and hosted on github](https://ericmullerau.github.io/).
 
 Material based on the [Jekyll step by step tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/),
 but relies on Github Actions, instead of a local Jekyll installation.
