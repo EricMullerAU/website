@@ -1,7 +1,8 @@
 ---
-title: Publications
+title: Eric Muller
 layout: default
 ---
+## Publications
 
 ### Organisation
 Academic service, including:
